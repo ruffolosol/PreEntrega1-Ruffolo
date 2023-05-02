@@ -1,7 +1,7 @@
-.containerNavbar{
+.containerNavbar {
     width: 100%;
-    height: 100%;
+    height: 20vh;
     display: flex;
     justify-content: space-between;
-    background-color: rgb(70, 180, 79);
-}
+    background-color: rgb(114, 180, 70);
+  }
